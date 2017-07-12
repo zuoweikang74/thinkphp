@@ -1,0 +1,14 @@
+{
+    "name": "zuoweikang74/thinkphp",
+    "description": "my first composer project",
+    "type": "project",
+    "license": "APACHE",
+    "authors": [
+        {
+            "name": "zuoweikang",
+            "email": "490539781@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
